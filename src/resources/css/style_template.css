@@ -209,6 +209,28 @@ footer p, footer a {
 	color: var(--backlink-text);
 }
 
+/* Temporary for maintenance notice */
+#maintenance-frame {
+	margin-top: 15px;
+	font-size: 20px;
+	text-align: center;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-color: #9c9c9c;
+}
+
+/* Temporary for maintenance notice */
+#maintenance-frame p {
+	color: #dd0000;
+	margin: 0;
+}
+
+/* Temporary for maintenance notice */
+#maintenance-frame a {
+	color: #ff0000;
+	margin: 0;
+}
+
 #megu-sidebar {
 	background-color: #a09a9a;
 	position: fixed;
